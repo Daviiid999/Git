@@ -6,4 +6,4 @@
   - git clone "url"
 3. Para ver el estado de mi repositorio.
   - git status
-    Me dice si hay
+    Me dice si hay hola
